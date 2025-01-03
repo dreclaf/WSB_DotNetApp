@@ -1,0 +1,36 @@
+@page
+@model UsersModel
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h1>Users List</h1>
+
+<table border="1" style="width:100%; text-align:left;">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Username</td>
+                <td>
+                    <a asp-page="EditUser" asp-route-id="@user.Id">Edit</a>
+                    <a asp-page="DeleteUser" asp-route-id="@user.Id" style="color:red;">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="AddUser">Add New User</a>
+
+<br>
+
+<a href="/Login">Log Out</a>
