@@ -11,6 +11,7 @@ public class AddUserModel : PageModel
 
     [BindProperty]
     public string Password { get; set; }
+    public string ErrorMessage { get; set; }
 
     public AddUserModel(AppDbContext context)
     {
@@ -19,12 +20,20 @@ public class AddUserModel : PageModel
 
     public IActionResult OnPost()
     {
+        if (_context.Users.Any(u => u.Username == Username))
+        {
+            ErrorMessage = "Username already exists. Please choose a different one.";
+            return Page();
+        }
+
         if (ModelState.IsValid)
         {
+            // Add new user to the database
             _context.Users.Add(new User { Username = Username, Password = Password });
             _context.SaveChanges();
             return RedirectToPage("Users");
         }
+
         return Page();
     }
 }

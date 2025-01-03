@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimpleCRUD
 build_property.RootNamespace = SimpleCRUD
-build_property.ProjectDir = c:\Users\user\Desktop\Zaliczenie DotNet\SimpleCRUD\
+build_property.ProjectDir = C:\Users\user\Desktop\Zaliczenie DotNet\SimpleCRUD\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\user\Desktop\Zaliczenie DotNet\SimpleCRUD
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Zaliczenie DotNet\SimpleCRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/AddUser.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/AddUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/DeleteUser.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/DeleteUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/EditUser.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/EditUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Error.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Index.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Login.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Privacy.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Users.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/_ViewImports.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/_ViewStart.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/Zaliczenie DotNet/SimpleCRUD/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mt0baaksxb
